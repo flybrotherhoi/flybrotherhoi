@@ -1,2 +1,2 @@
-# Wel come to my page!!!
+# Welcome to my page!!!
 Hello to everyone! Have a good day!!!
